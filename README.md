@@ -14,9 +14,9 @@ python3 notepad--.py
 This program does not require any additional Python packages/dependencies.
 
 ## How to Use Notepad--
-Upon running the program successfully, the user will be greeted with an ASCII title screen and instructions following the title. Typing "START" (case sensitive) will allow the user to start creating/writing their file in the program.
+Upon running the program successfully, the user will be greeted with an ASCII title screen and instructions following the title. Typing ```START``` (case sensitive) will allow the user to start creating/writing their file in the program.
 
-Now, any text the user types will be committed to the file until the user types the sentinel value (exit statement) to stop writing the file's text. To stop writing text to a file, the user must type "Notepad--, please exit this program. I am done typing my file now."
+Now, any text the user types will be committed to the file until the user types the sentinel value (exit statement) to stop writing the file's text. To stop writing text to a file, the user must type ```Notepad--, please exit this program. I am done typing my file now.```
 
 Once this sentence has been typed, the user will be prompted to enter the name of the file they want to save to, followed by the file's extension (i.e. .py, .c, .txt, .csv, etc.).
 

@@ -20,5 +20,6 @@ Now, any text the user types will be committed to the file until the user types 
 
 Once this sentence has been typed, the user will be prompted to enter the name of the file they want to save to, followed by the file's extension (i.e. .py, .c, .txt, .csv, etc.).
 
+
 ## Credits
 [Python](https://www.python.org/) for programming language.

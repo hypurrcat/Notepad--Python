@@ -1,9 +1,3 @@
-# NOTEPAD--
-# A Free Open Source "TEXT EDITOR"
-# Dom G. 2023
-
-# Last updated: 4/17/2023
-
 # Program Version Number
 PROG_VERSION = 1.0
 
